@@ -1,1 +1,1 @@
-﻿# Project1_py
+﻿# Slot Machine Project
